@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 <div id="main-content">
-    <h2>Add New Course</h2>
+    <h2>Add New Student</h2>
     <form class="post-form" action="functions/addstudentdata.php" method="post">
         <div class="form-group">
             <label>Student Name</label>
